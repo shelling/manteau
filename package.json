@@ -1,0 +1,22 @@
+{
+  "name": "manteau",
+  "version": "0.0.1",
+  "description": "A Presenter Layer for ORM(s) or data object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shelling/manteau.git"
+  },
+  "keywords": [
+    "Presenter"
+  ],
+  "author": "shelling <navyblueshellingford@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shelling/manteau/issues"
+  },
+  "homepage": "https://github.com/shelling/manteau#readme"
+}
